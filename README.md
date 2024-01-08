@@ -1,4 +1,2 @@
-# Demo
-This is my first Git repository.
-<br>
-Author-Fiona Crasta
+# Mini project 
+
